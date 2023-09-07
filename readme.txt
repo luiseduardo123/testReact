@@ -4,4 +4,3 @@ Ejecutar los siguientes comandos para su ejecución
 - npm run starta
 .
 .
-.
